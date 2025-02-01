@@ -1,9 +1,9 @@
 # Portfolio
-Benvenuto nel mio portfolio! In questa sezione è presente una raccolta di tutti i progetti di analisi statistica svolti.
+Welcome to my portfolio. This section presents a curated collection of statistical analysis projects.
 
 ### 📄 [Italian Tourism Analysis](https://raw.githubusercontent.com/saracapozio/Portfolio/main/Italian_tourism_analysis.pdf)
-📌 **Descrizione**: Analisi del turismo in Italia basata su dati statistici.  
-🔗 **[Scarica il PDF](https://raw.githubusercontent.com/saracapozio/Portfolio/main/Italian_tourism_analysis.pdf)**  
+📌 **Description**:Analysis of the impact of COVID-19 on Italian tourism, segmented by regional areas.
+🔗 **[Download PDF](https://raw.githubusercontent.com/saracapozio/Portfolio/main/Italian_tourism_analysis.pdf)**  
 
-## 📬 Contatti
+## 📬 Contact Information 
 📧 Email: [capoziosara7@gmail.com](mailto:capoziosara7@gmail.com)  
