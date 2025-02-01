@@ -14,5 +14,12 @@ Welcome to my portfolio. This section presents a curated collection of statistic
 🔗 **[Download PDF](https://raw.githubusercontent.com/saracapozio/Portfolio/main/Pitman_Yor_Process_analysis.pdf)**  
 
 
+### 📄 [Taxi Tip Prediction](https://raw.githubusercontent.com/saracapozio/Portfolio/main/Prediction_taxi_tip.pdf)
+📌 **Description**:Prediction Taxi Tip using Linear Parametric and NonParametric models
+🔗 **[Download PDF](https://raw.githubusercontent.com/saracapozio/Portfolio/main/Prediction_taxi_tip.pdf)**  
+
+
+
+
 ## 📬 Contact Information 
 📧 Email: [capoziosara7@gmail.com](mailto:capoziosara7@gmail.com)  
