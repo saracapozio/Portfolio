@@ -13,12 +13,13 @@ Welcome to my portfolio. This section presents a curated collection of statistic
 📌 **Description**:Theoretical Insights into the Pitman-Yor Process and Its Application as a Clustering Method on Real-World Data
 🔗 **[Download PDF](https://raw.githubusercontent.com/saracapozio/Portfolio/main/Pitman_Yor_Process_analysis.pdf)**  
 
-
 ### 📄 [Taxi Tip Prediction](https://raw.githubusercontent.com/saracapozio/Portfolio/main/Prediction_taxi_tip.pdf)
 📌 **Description**:Prediction Taxi Tip using Linear Parametric and NonParametric models
 🔗 **[Download PDF](https://raw.githubusercontent.com/saracapozio/Portfolio/main/Prediction_taxi_tip.pdf)**  
 
-
+### 📄 [Machine Learning  for Astrophysics](https://raw.githubusercontent.com/saracapozio/Portfolio/main/galaxy_stars_classification.pdf)
+📌 **Description**:Classification of stars and galaxys with Machine Learning models
+🔗 **[Download PDF](https://raw.githubusercontent.com/saracapozio/Portfolio/main/galaxy_stars_classification.pdf)**  
 
 
 ## 📬 Contact Information 
