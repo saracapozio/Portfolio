@@ -1,9 +1,10 @@
 # Portfolio
 Welcome to my portfolio. This section presents a curated collection of statistical analysis projects.
 
-### 📄 [Italian Tourism Time-Series Analysis](https://raw.githubusercontent.com/saracapozio/Portfolio/main/Italian_tourism_analysis.pdf)
+### 📄 [Italian Tourism Time-Series Analysis](https://raw.githubusercontent.com/saracapozio/Portfolio/main/Italian_tourism_analysis_english_version.pdf)
 📌 **Description**:Analysis of the impact of COVID-19 on Italian tourism, segmented by regional areas.
-🔗 **[Download PDF](https://raw.githubusercontent.com/saracapozio/Portfolio/main/Italian_tourism_analysis.pdf)**  
+🔗 **[Download PDF(english version)](https://raw.githubusercontent.com/saracapozio/Portfolio/main/Italian_tourism_analysis_english_version.pdf)**  
+🔗 **[Download PDF(italian version)](https://raw.githubusercontent.com/saracapozio/Portfolio/main/Italian_tourism_analysis_italian_version.pdf)**  
 
 ### 📄 [Bayesian Non Parametric Methods for Spike Detection in Calcium Imaging Data(paper review)](https://raw.githubusercontent.com/saracapozio/Portfolio/main/Bayesian_Nonparametric.pdf)
 📌 **Description**:Review of the work proposed by Laura D’Angelo, Antonio Canale, Zhaoxia Yu, and Michele Guindani, which presents the application of nested Bayesian nonparametric models to measure neuronal response to different external stimuli in animals through the analysis of calcium signals
