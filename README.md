@@ -21,7 +21,7 @@ Welcome to my portfolio. This section presents a curated collection of statistic
 
 ### 📄 [Machine Learning  for Astrophysics](https://raw.githubusercontent.com/saracapozio/Portfolio/main/galaxy_stars_classification.pdf)
 📌 **Description**:Classification of stars and galaxys with Machine Learning models
-🔗 **[Download PDF](https://raw.githubusercontent.com/saracapozio/Portfolio/main/galaxy_stars_classification.pdf)**  
+🔗 **[Download PDF(Italian version)](https://raw.githubusercontent.com/saracapozio/Portfolio/main/galaxy_stars_classification.pdf)**  
 
 
 ## 📬 Contact Information 
