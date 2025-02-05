@@ -12,7 +12,8 @@ Welcome to my portfolio. This section presents a curated collection of statistic
 
 ### 📄 [Clustering Analysis Using the Pitman-Yor Process](https://raw.githubusercontent.com/saracapozio/Portfolio/main/Pitman_Yor_Process_analysis.pdf)
 📌 **Description**:Theoretical Insights into the Pitman-Yor Process and Its Application as a Clustering Method on Real-World Data
-🔗 **[Download PDF](https://raw.githubusercontent.com/saracapozio/Portfolio/main/Pitman_Yor_Process_analysis.pdf)**  
+🔗 **[Download PDF(Italian version)](https://raw.githubusercontent.com/saracapozio/Portfolio/main/Pitman_Yor_Process_analysis.pdf)**  
+🔗 **[Download PDF(English version)](https://raw.githubusercontent.com/saracapozio/Portfolio/main/Pitman_Yor_Process_english_version.pdf)**  
 
 ### 📄 [Taxi Tip Prediction](https://raw.githubusercontent.com/saracapozio/Portfolio/main/Taxi_tip_prediction_english_version.pdf)
 📌 **Description**:Prediction Taxi Tip using Linear Parametric and NonParametric models
