@@ -27,4 +27,4 @@ Welcome to my portfolio. This section presents a curated collection of statistic
 
 ## 📬 Contact Information 
 📧 Email: [capoziosara7@gmail.com](mailto:capoziosara7@gmail.com)  
-🔗 LinkedIn:[www.linkedin.com/in/sara-capozio](mailto:www.linkedin.com/in/sara-capozio) 
+🔗 LinkedIn: [Sara Capozio](https://www.linkedin.com/in/sara-capozio/) 
