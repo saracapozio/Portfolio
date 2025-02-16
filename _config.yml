@@ -1,0 +1,7 @@
+title: "Sara Capozio"
+# logo: "percorso/locale/immagine.png"  # Se hai un logo, specifica il percorso corretto
+description: "Hi, welcome to my portfolio!"  # Descrizione breve del sito
+#show_downloads: true  # Se hai file scaricabili (es. repo GitHub)
+ 
+# Tema di GitHub Pages
+theme: jekyll-theme-minimal
