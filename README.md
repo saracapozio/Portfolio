@@ -26,7 +26,8 @@
 - [BMJ Journals](https://bmjopen.bmj.com/content/14/2/e075185)  
 - [Personal GitHub (Italian version)](https://lucadesimonegit.github.io/portfolio/tesi_capozio_sara.pdf)
   
-📌 **Tags:** Censored Data | PCA | Heckit Model 
+📌 **Tags:** Censored Data | PCA | Heckit Model
+<br><br><br>
 
 📄 **"Italian Tourism Time-Series Analysis"**  
 Analysis of the impact of COVID-19 on Italian tourism, segmented by regional areas.  
