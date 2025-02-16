@@ -34,7 +34,7 @@ Analysis of the impact of COVID-19 on Italian tourism, segmented by regional are
 - [Personal GitHub (English version)](https://saracapozio.github.io/Portfolio/Italia_tourism_analysis_english_version.pdf)
 - [Personal GitHub (Italian version)](https://saracapozio.github.io/Portfolio/Italian_tourism_analysis_italian_version.pdf)
 
-📌 **Tags:** Time series | SARIMA Models | RegARIMA 
+📌 **Tags:** Time Series <br> SARIMA Models <br> RegARIMA
 
 📄 **"Bayesian Non Parametric Methods for Spike Detection in Calcium Imaging Data(paper review)"**  
 Review of the work proposed by Laura D’Angelo, Antonio Canale, Zhaoxia Yu, and Michele Guindani, which presents the application of nested Bayesian nonparametric models to measure neuronal response to different external stimuli in animals through the analysis of calcium signals.  
