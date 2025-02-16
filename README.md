@@ -9,9 +9,9 @@
 #### Technical Skills: R, SQL, Python, SAS, SPSS
 
 ## 📎 Education			       		
-- Master's Degree in Statistical and Economic Sciences| University of Milano-Bicocca (_Oct 2022 - Jan 2025_)
-- Erasmus+ Exchange Program| Université Paris Dauphine (_Jan 2024 - June 2024_)       		
-- Bachelor's Degree in Statistics and Information Management| University of Milano-Bicocca (_Oct 2019 - Sept 2022_)
+- Master's Degree in Statistical and Economic Sciences | University of Milano-Bicocca (_Oct 2022 - Jan 2025_)
+- Erasmus+ Exchange Program | Université Paris Dauphine (_Jan 2024 - June 2024_)       		
+- Bachelor's Degree in Statistics and Information Management | University of Milano-Bicocca (_Oct 2019 - Sept 2022_)
 
 ## 📎 Work Experience
 **Research Collaborator @ University of Milano-Bicocca (_Feb 2024 - May 2024_)**
