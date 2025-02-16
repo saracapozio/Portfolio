@@ -10,8 +10,8 @@
 
 ## 📎 Education			       		
 - Master's Degree in Statistical and Economic Sciences| University of Milano-Bicocca (_Oct 2022 - Jan 2025_)
-- Erasmus+ Exchange Program		| Université Paris Dauphine (_Jan 2024 - June 2024_)       		
-- Bachelor's Degree in Statistics and Information Management | University of Milano-Bicocca (_Oct 2019 - Sept 2022_)
+- Erasmus+ Exchange Program| Université Paris Dauphine (_Jan 2024 - June 2024_)       		
+- Bachelor's Degree in Statistics and Information Management| University of Milano-Bicocca (_Oct 2019 - Sept 2022_)
 
 ## 📎 Work Experience
 **Research Collaborator @ University of Milano-Bicocca (_Feb 2024 - May 2024_)**
@@ -25,8 +25,8 @@
 
 - [BMJ Journals](https://bmjopen.bmj.com/content/14/2/e075185)  
 - [Personal GitHub (Italian version)](https://lucadesimonegit.github.io/portfolio/tesi_capozio_sara.pdf)
-
-  📌 **Tags:** Censored Data | PCA | Heckit Model 
+  
+📌 **Tags:** Censored Data | PCA | Heckit Model 
 
 📄 **"Italian Tourism Time-Series Analysis"**  
 Analysis of the impact of COVID-19 on Italian tourism, segmented by regional areas.  
@@ -34,14 +34,14 @@ Analysis of the impact of COVID-19 on Italian tourism, segmented by regional are
 - [Personal GitHub (English version)](https://saracapozio.github.io/Portfolio/Italia_tourism_analysis_english_version.pdf)
 - [Personal GitHub (Italian version)](https://saracapozio.github.io/Portfolio/Italian_tourism_analysis_italian_version.pdf)
 
-  📌 **Tags:** Time series | SARIMA Models | RegARIMA 
+📌 **Tags:** Time series | SARIMA Models | RegARIMA 
 
 📄 **"Bayesian Non Parametric Methods for Spike Detection in Calcium Imaging Data(paper review)"**  
 Review of the work proposed by Laura D’Angelo, Antonio Canale, Zhaoxia Yu, and Michele Guindani, which presents the application of nested Bayesian nonparametric models to measure neuronal response to different external stimuli in animals through the analysis of calcium signals.  
 
 - [Personal GitHub (English version)](https://saracapozio.github.io/Portfolio/Bayesian_Nonparametric.pdf)
 
-  📌 **Tags:** Hierarchical Bayesian Non-Parametric Models | Neuroscience | Sensitivity analysis
+📌 **Tags:** Hierarchical Bayesian Non-Parametric Models | Neuroscience | Sensitivity analysis
 
 📄 **"Clustering Analysis Using the Pitman-Yor Process"**  
 Theoretical Insights into the Pitman-Yor Process and Its Application as a Clustering Method on Real-World Data.  
@@ -49,7 +49,7 @@ Theoretical Insights into the Pitman-Yor Process and Its Application as a Cluste
 - [Personal GitHub (English version)](https://saracapozio.github.io/Portfolio/Pitman_Yor_Process_english_version.pdf)
 - [Personal GitHub (Italian version)](https://saracapozio.github.io/Portfolio/Pitman_Yor_Process_analysis.pdf)
 
-  📌 **Tags:**  Dirichlet Process | Pitman-Yor Process | Mixture Models | Location-scale Pitman-Yor Model
+📌 **Tags:**  Dirichlet Process | Pitman-Yor Process | Mixture Models | Location-scale Pitman-Yor Model
 
 📄 **"Taxi Tip Prediction"**  
 Prediction Taxi Tip using Linear Parametric and NonParametric models.  
@@ -57,14 +57,14 @@ Prediction Taxi Tip using Linear Parametric and NonParametric models.
 - [Personal GitHub (English version)](https://saracapozio.github.io/Portfolio/Taxi_tip_prediction_english_version.pdf)
 - [Personal GitHub (Italian version)](https://saracapozio.github.io/Portfolio/Taxi_tip_prediction_italian_version.pdf)
 
-  📌 **Tags:**  Robust Regression | Ridge Model | Lasso Model | Elastic Net Model | GAM  
+📌 **Tags:**  Robust Regression | Ridge Model | Lasso Model | Elastic Net Model | GAM  
 
 📄 **"Machine Learning  for Astrophysics"**  
 Classification of stars and galaxys with Machine Learning models.  
 
 - [Personal GitHub (Italian version)](https://saracapozio.github.io/Portfolio/galaxy_stars_classification.pdf)
 
-  📌 **Tags:**  Naive Bayes | Nearest Neighbor | Tree | Random Forest | Neural Network | Gradient Boosting  
+📌 **Tags:**  Naive Bayes | Nearest Neighbor | Tree | Random Forest | Neural Network | Gradient Boosting  
  
 
 
