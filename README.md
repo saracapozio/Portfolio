@@ -35,7 +35,8 @@ Analysis of the impact of COVID-19 on Italian tourism, segmented by regional are
 - [Personal GitHub (English version)](https://saracapozio.github.io/Portfolio/Italia_tourism_analysis_english_version.pdf)
 - [Personal GitHub (Italian version)](https://saracapozio.github.io/Portfolio/Italian_tourism_analysis_italian_version.pdf)
 
-📌 **Tags:** Time Series <br> SARIMA Models <br> RegARIMA
+📌 **Tags:** Time Series | SARIMA Models | RegARIMA
+<br><br><br>
 
 📄 **"Bayesian Non Parametric Methods for Spike Detection in Calcium Imaging Data(paper review)"**  
 Review of the work proposed by Laura D’Angelo, Antonio Canale, Zhaoxia Yu, and Michele Guindani, which presents the application of nested Bayesian nonparametric models to measure neuronal response to different external stimuli in animals through the analysis of calcium signals.  
@@ -43,6 +44,7 @@ Review of the work proposed by Laura D’Angelo, Antonio Canale, Zhaoxia Yu, and
 - [Personal GitHub (English version)](https://saracapozio.github.io/Portfolio/Bayesian_Nonparametric.pdf)
 
 📌 **Tags:** Hierarchical Bayesian Non-Parametric Models | Neuroscience | Sensitivity analysis
+<br><br><br>
 
 📄 **"Clustering Analysis Using the Pitman-Yor Process"**  
 Theoretical Insights into the Pitman-Yor Process and Its Application as a Clustering Method on Real-World Data.  
@@ -51,6 +53,7 @@ Theoretical Insights into the Pitman-Yor Process and Its Application as a Cluste
 - [Personal GitHub (Italian version)](https://saracapozio.github.io/Portfolio/Pitman_Yor_Process_analysis.pdf)
 
 📌 **Tags:**  Dirichlet Process | Pitman-Yor Process | Mixture Models | Location-scale Pitman-Yor Model
+<br><br><br>
 
 📄 **"Taxi Tip Prediction"**  
 Prediction Taxi Tip using Linear Parametric and NonParametric models.  
@@ -59,6 +62,7 @@ Prediction Taxi Tip using Linear Parametric and NonParametric models.
 - [Personal GitHub (Italian version)](https://saracapozio.github.io/Portfolio/Taxi_tip_prediction_italian_version.pdf)
 
 📌 **Tags:**  Robust Regression | Ridge Model | Lasso Model | Elastic Net Model | GAM  
+<br><br><br>
 
 📄 **"Machine Learning  for Astrophysics"**  
 Classification of stars and galaxys with Machine Learning models.  
@@ -66,6 +70,7 @@ Classification of stars and galaxys with Machine Learning models.
 - [Personal GitHub (Italian version)](https://saracapozio.github.io/Portfolio/galaxy_stars_classification.pdf)
 
 📌 **Tags:**  Naive Bayes | Nearest Neighbor | Tree | Random Forest | Neural Network | Gradient Boosting  
+ <br><br><br>
  
 
 
