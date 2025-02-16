@@ -23,7 +23,7 @@
 
 📄 **"Analysis and clinical determinants of post-COVID-19 syndrome in the Lombardy region: evidence from a longitudinal cohort study"**  
 - [BMJ Journals](https://bmjopen.bmj.com/content/14/2/e075185)  
-- [Personal GitHub (Italian version)](https://lucadesimonegit.github.io/portfolio/SelfSelectionRegressionLongCovid_ITA.pdf)
+- [Personal GitHub (Italian version)](https://lucadesimonegit.github.io/portfolio/tesi_capozio_sara.pdf)
 
 📄 **"Italian Tourism Time-Series Analysis"**  
 Analysis of the impact of COVID-19 on Italian tourism, segmented by regional areas.
