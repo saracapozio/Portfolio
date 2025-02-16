@@ -15,7 +15,8 @@
 
 ## 📌 Work Experience
 **Research Collaborator @ University of Milano-Bicocca (_Feb 2024 - May 2024_)**
-- Bayesian Models for Multiple Observations of Weighted Graphs
+- Bayesian Models for Multiple Observations of Weighted Graphs (Introduction of a new generalized distribution of the CER model)
+- Design and implementation of Markov Chain Monte Carlo (MCMC) algorithms for the application of these models, using R programming language.
   
 
 ## 📌 Projects
