@@ -29,6 +29,14 @@
 📌 **Tags:** Censored Data | PCA | Heckit Model
 <br><br><br>
 
+📄 **"A Generalization of the Centered Erdős-Rényi Distribution for Network Data Analysis"** 
+Bayesian Models for Multiple Observations of Weighted Graphs Applied to Neuroscience 
+
+- [Personal GitHub (Italian version)](https://saracapozio.github.io/Portfolio/tesi_capozio_sara.pdf)
+
+📌 **Tags:**  Hierarchical Bayesian Model | Neuroscience | Weighted graphs
+<br><br><br>
+  
 📄 **"Italian Tourism Time-Series Analysis"**  
 Analysis of the impact of COVID-19 on Italian tourism, segmented by regional areas.  
 
