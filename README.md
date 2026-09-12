@@ -32,7 +32,7 @@
 📄 **"A Generalization of the Centered Erdős-Rényi Distribution for Network Data Analysis"** 
 Bayesian Models for Multiple Observations of Weighted Graphs Applied to Neuroscience 
 
-- [Personal GitHub (Italian version)](https://saracapozio.github.io/Portfolio/tesi_magistale_capozio_sara.pdf)
+- [Personal GitHub (Italian version)](https://saracapozio.github.io/Portfolio/tesi_magistrale_capozio_sara.pdf)
 
 📌 **Tags:**  Hierarchical Bayesian Model | Neuroscience | Weighted graphs
 <br><br><br>
