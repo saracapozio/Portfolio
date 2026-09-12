@@ -24,7 +24,7 @@
 📄 **Contributor to the scientific publication: "Analysis and clinical determinants of post-COVID-19 syndrome in the Lombardy region: evidence from a longitudinal cohort study"**  
 
 - [BMJ Journals](https://bmjopen.bmj.com/content/14/2/e075185)  
-- [Personal GitHub (Italian version)](https://saracapozio.github.io/Portfolio/tesi_magistrale_capozio_sara.pdf)
+- [Personal GitHub (Italian version)](https://saracapozio.github.io/Portfolio/tesi_capozio_sara.pdf)
   
 📌 **Tags:** Censored Data | PCA | Heckit Model
 <br><br><br>
@@ -32,7 +32,7 @@
 📄 **"A Generalization of the Centered Erdős-Rényi Distribution for Network Data Analysis"** 
 Bayesian Models for Multiple Observations of Weighted Graphs Applied to Neuroscience 
 
-- [Personal GitHub (Italian version)](https://saracapozio.github.io/Portfolio/tesi_capozio_sara.pdf)
+- [Personal GitHub (Italian version)](https://saracapozio.github.io/Portfolio/tesi_magistale_capozio_sara.pdf)
 
 📌 **Tags:**  Hierarchical Bayesian Model | Neuroscience | Weighted graphs
 <br><br><br>
