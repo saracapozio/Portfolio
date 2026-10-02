@@ -33,6 +33,7 @@
 Bayesian Models for Multiple Observations of Weighted Graphs Applied to Neuroscience 
 
 - [Personal GitHub (Italian version)](https://saracapozio.github.io/Portfolio/tesi_magistrale_capozio_sara.pdf)
+- - [Personal GitHub (English version)](https://saracapozio.github.io/Portfolio/Master_Thesis.pdf)
 
 📌 **Tags:**  Hierarchical Bayesian Model | Neuroscience | Weighted graphs
 <br><br><br>
