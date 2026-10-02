@@ -14,7 +14,7 @@
 - Bachelor's Degree in Statistics and Information Management | University of Milano-Bicocca (_Oct 2019 - Sept 2022_)
 
 ## 📎 Work Experience
-**Research Collaborator @ University of Milano-Bicocca (_Feb 2024 - May 2024_)**
+**Research Collaborator @ University of Milano-Bicocca (_Feb 2025 - May 2025_)**
 - Bayesian Models for Multiple Observations of Weighted Graphs (Introduction of a new generalized distribution of the CER model)
 - Design and implementation of Markov Chain Monte Carlo (MCMC) algorithms for the application of these models, using R programming language.
   
